@@ -158,7 +158,7 @@
                             </button>
                         </div>
                         <div class="modal-body px-8 py-8">
-                            <img :src="image" alt="poster">
+                            <img :src="{{ 'https://image.tmdb.org/t/p/w500/'.$image['file_path'] }}" alt="poster">
                         </div>
                     </div>
                 </div>
