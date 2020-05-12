@@ -45,6 +45,8 @@
                                         {{$crew['job']}}
                                     </div>
                                 </div>
+                            @else
+                                @break
                             @endif
                         @endforeach
 
@@ -116,6 +118,8 @@
                             </div>
                         </div>
                     </div>
+                    @else
+                        @break
                     @endif
                 @endforeach
             </div>
@@ -139,6 +143,8 @@
                             <img src="{{ 'https://image.tmdb.org/t/p/w500/'.$image['file_path'] }}" alt="image1" class="hover:opacity-75 transition ease-in-out duration-150">
                         </a>
                     </div>
+                    @else
+                        @break
                     @endif
                 @endforeach
             </div>
