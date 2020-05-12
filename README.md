@@ -8,7 +8,13 @@
 </p>
 
 ## Movie App
-The movie app is built upon Laravel, Alphine.js & used TMDB movie app to get movie details
+The movie app is built upon Laravel, Alphine.js & used TMDB movie app to get movie details.
+Application screenshots below <br />
+<img src="https://github.com/LarrySul/Laravel-Movie-App/blob/master/public/img/Popular%20Movies.png" alt="Home page">
+<img src="https://github.com/LarrySul/Laravel-Movie-App/blob/master/public/img/Thriller.png" alt="Thriller page">
+<img src="https://github.com/LarrySul/Laravel-Movie-App/blob/master/public/img/Description.png" alt="Description page">
+
+
 
 ## About Laravel
 
